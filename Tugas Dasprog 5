@@ -6,7 +6,7 @@ print("     DAFTAR VARIANT HARGA   ")
 print("===============================")
 print("O     Original       13000")
 print("K     Keju           15000")
-print("P     Pisang         1500")
+print("P     Pisang         15000")
 print("PK    Pisang keju    18000")
 print("N     Nangka         15000")
 
